@@ -127,10 +127,10 @@ var _fgq = [];
 						"aspectRatio": 1,
 						"header_image": "FreeCellSolitaireClassicHeader.jpg"
 				},
-				"urlRoot": "https://www.freecellsolitaire.info",
+				"urlRoot": "https://freecellsolitaire.github.io",
 				"assetsPath": "assets",
 				"ts": 1633145489000,
-				"short_url": "https://www.freecellsolitaire.info",
+				"short_url": "https://freecellsolitaire.github.io",
 				"uuid": "e5db034e-d4c8-414d-a930-6ac94c844e71",
 				"pid": "4638e320-4444-4514-81c4-d80a8c662371",
 				"aid": "A1000-1",
@@ -146,7 +146,7 @@ var _fgq = [];
 						"show_initial": true,
 						"show_video": true,
 						"npa": false,
-						"description_url": "https://www.freecellsolitaire.info/data/description",
+						"description_url": "https://freecellsolitaire.github.io/data/description",
 						"provider": "dfp",
 						"dfp_available": false,
 						"domains": [

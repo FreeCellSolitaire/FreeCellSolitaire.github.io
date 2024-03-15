@@ -11057,7 +11057,7 @@ var base64Logo = "iVBORw0KGgoAAAANSUhEUgAAAf4AAADSCAYAAACrdqLcAAAACXBIWXMAAAsTAA
         this.isImagesFromAtlas = !0,
         this.copyrightTxt = this.addTextField("Aalgrs", 24 * Config.graphicScale, 16777215, !1, "RIGHT", 0, 0, 200, 20 * Config.graphicScale, !1, 0, 0, null, !1, !1, 0, 0, 0, 0),
         this.copyrightTxt.set_autoSize(1),
-        this.copyrightTxt.set_text("www.freecellsolitare.info")),
+        this.copyrightTxt.set_text("freecellsolitare.github.io")),
         this.initSheight = this.sHeight,
         this.initSwidth = this.sWidth,
         Desk.current.gamePlay = 2,
